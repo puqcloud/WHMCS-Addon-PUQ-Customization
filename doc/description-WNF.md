@@ -1,0 +1,23 @@
+# Description
+
+<article class="text-token-text-primary w-full focus:outline-none scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]" data-scroll-anchor="false" data-testid="conversation-turn-4" data-turn="assistant" data-turn-id="request-WEB:33fddbd1-7c35-48e2-a43d-036fac016df1-7" dir="auto" id="bkmrk-the-%22product-group-o" tabindex="-1">### PUQ Customization module **[WHMCS](https://puqcloud.com/link.php?id=77)**
+
+#####  [Order now](https://puqcloud.com/whmcs-addon-puq-customization.php) | [Download](https://download.puqcloud.com/WHMCS/addons/PUQ-Customization/) | [FAQ](https://faq.puqcloud.com/)
+
+The "Product Group Order" extension is a powerful tool that enables users to automatically generate orders based on product-group rules. With this extension, you can standardize bundles, enforce required add-ons, and complete client setups exactly when needed. Here are the key features of the "Product Group Order" extension:
+
+1. **Rule-Based Ordering from Product Groups:** Define what a client must already have (*applies\_to*), what is required (*requires*), and which billing cycles are allowed. The extension turns these rules into consistent, compliant orders.
+2. **Per-Client Service Analysis:** The extension scans each client’s existing products and addons, maps billing cycles, and pinpoints exactly what’s missing to complete the set.
+3. **Cycle-Aware Matching:** Ensure accuracy by requiring at least one allowed billing cycle for every required product before an order is created.
+4. **On-Demand Order Creation &amp; Auto-Provisioning:** Create the order via WHMCS Local API with your chosen payment method; the module triggers provisioning (AcceptOrder, autosetup) so services are delivered promptly and efficiently.
+5. **Products and Addons Support:** Apply rules across both products and addons to build complete, sellable bundles.
+
+By giving you the power to convert grouping rules into precise, on-demand orders, the "Product Group Order" extension provides unparalleled control over how bundles are completed. You no longer have to rely on manual checks—initiate compliant, cycle-correct orders whenever you choose.
+
+It does not disrupt your existing services or schedules; instead, it enhances your sales flow by adding only the necessary items to fulfill your defined rules.
+
+Automated ordering and provisioning let you closely monitor outcomes and ensure orders complete successfully. If any issues arise, you can address them immediately—keeping operations smooth and clients satisfied.
+
+By enabling rule-driven ordering, per-client analysis, cycle-aware matching, and one-click order + auto-provisioning, this "Product Group Order" extension becomes an indispensable tool for optimizing your WHMCS sales efficiency and revenue growth.
+
+</article>
